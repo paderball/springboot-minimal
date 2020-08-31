@@ -6,4 +6,5 @@ mvn spring-boot:run
 
 Visit:
 http://localhost:8080/home
+
 http://localhost:8080/home/message
